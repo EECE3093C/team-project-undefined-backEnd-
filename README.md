@@ -28,3 +28,12 @@ Almost eveyone at some point has tried to create a list of products that they wo
 
 
 ## Challenges and Risks
+
+**What is the single most serious challenge you see in developing the product on schedule?**
+
+Our product deals with using data pulled from other websites and most times the usage of the product will also require pulling data from multiple websites simultaneously. This can result in potential legal issues regarding web scraping. This is an issue that might delay our development process because we don’t want to disregard it till the end of the development process. Instead, we are more willing to solve the problem beforehand and make sure that our methods of web scraping are risk-free.
+
+**How will you minimize or mitigate the risk?**
+
+We are planning on doing enough research on web scraping before starting the project. The best way to mitigate this risk is by knowing the technologies and methods we are using and that is what we are planning on doing.  
+
