@@ -4,15 +4,15 @@
 
 **What is your product (high-level view)?**
 
-Our product serves to provide an advanced tool to manage a users wishlist. This list may contain items from multiple websites and will use an api to find the best price for each item to make sure your list efficient.
+Our product serves to provide an advanced tool to manage a users wishlist. This list may contain items from multiple websites and will use an api to find the best price for each item to make sure the list is efficient.
 
 **Whom is it for?**
 
-Our target audience includes users that need a way to organize a variety of items that they would want to purchase for themselves and others. 
+Our target audience includes users that need a way to organize a variety of items that they would want to purchase for themselves and others. It can be used for a variety of occasions like Weddings, baby showers, birthdays, etc. It is meant for people of all ages.
 
 **What problem does it solve?**
 
-This would help eliminate the need to have different wishlists across multiple websites. It will all be located in one place where all a user needs to do is login to their account to see one list.
+This would help eliminate the need to have different wishlists across multiple websites. It will all be located in one place where all a user needs to do is login to their account to see one list. It also eliminates the stress of figuring out what to get someone for their wedding, birthday etc. You can just take a look at the persons wishlist and et them a meaningful gift that will be of use to them.
 
 **What alternatives are available, who are your competitors?**
 
@@ -43,9 +43,9 @@ We intend to use, Flask, Python, sqlite3, HTML, CSS and Javascript. But these mi
 
 **What is the single most serious challenge you see in developing the product on schedule?**
 
-Our product deals with using data pulled from other websites and most times the usage of the product will also require pulling data from multiple websites simultaneously. This can result in potential legal issues regarding web scraping. This is an issue that might delay our development process because we don’t want to disregard it till the end of the development process. Instead, we are more willing to solve the problem beforehand and make sure that our methods of web scraping are risk-free.
+Our product deals with using data pulled from multiple websites simultaneously. This can result in potential legal issues regarding web scraping. This is an issue that might delay our development process because we don’t want to disregard it till the end of the development process. Instead, we are more willing to solve the problem beforehand and make sure that our methods of web scraping are risk-free.
 
 **How will you minimize or mitigate the risk?**
 
-We are planning on doing enough research on web scraping before starting the project. The best way to mitigate this risk is by knowing the technologies and methods we are using and that is what we are planning on doing.  
+We are planning on doing enough research on web scraping before starting the project. The best way to mitigate this risk is by educating ourselves on the legalities of web scraping and only incorporating functionalities that will not compromise the privacy of the customers.
 
