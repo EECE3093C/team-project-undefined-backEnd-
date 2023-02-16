@@ -12,7 +12,7 @@ Our target audience includes users that need a way to organize a variety of item
 
 **What problem does it solve?**
 
-This would help eliminate the need to have different wishlists across multiple websites. It will all be located in one place where all a user needs to do is login to their account to see one list. It also eliminates the stress of figuring out what to get someone for their wedding, birthday etc. You can just take a look at the persons wishlist and et them a meaningful gift that will be of use to them.
+This would help eliminate the need to have different wishlists across multiple websites. It will all be located in one place where all a user needs to do is login to their account to see one list. It also eliminates the stress of figuring out what to get someone for their wedding, birthday etc. You can just take a look at the persons wishlist and get them a meaningful gift that will be of use to them.
 
 **What alternatives are available, who are your competitors?**
 
