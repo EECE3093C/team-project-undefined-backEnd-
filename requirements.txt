@@ -1,0 +1,4 @@
+# Here are the libaries/modules that our container will
+# automatically install using this txt file.
+Flask
+pysqlite3
